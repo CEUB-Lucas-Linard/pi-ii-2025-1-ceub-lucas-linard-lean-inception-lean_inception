@@ -2,10 +2,10 @@
 
 ![Ilustração de Joãozinho](https://www.devmedia.com.br/arquivos/Artigos/43755/emprego-programador-junior.jpg)    
 
-## Perfil Demográfico  
+## Perfil Do Estudante
 | **Característica**       | **Descrição**                                  |
 |--------------------------|-----------------------------------------------|
-| **Nome completo**        | Joãzinho Junior                                |
+| **Nome completo**        | Joãozinho Junior                                |
 | **Idade**                | 19 anos                                       |
 | **Curso/Instituição**    | Analise e Desenvolvimento de Sistemas (2º semestre) - CEUB     |
 | **Localização**          | Estrutural, BSB                                 |
@@ -19,6 +19,7 @@
 ### **Online**  
 - Ativo no LinkedIn e GitHub, mas frustrado com falta de foco acadêmico.  
 - Segue influenciadores de tecnologia e grupos de estudo no Telegram.  
+- Sempre buscando pessoas que agregam acadêmicamente e profissionalmente.
 
 ### **No Campus**  
 - Participa de grupos de estudo.  
@@ -35,6 +36,5 @@
 ### **1. Conexões Direcionadas**  
 - **Funcionalidade crítica**:  
   ```markdown  
-  - Busca avançada por "Habilidade + Curso" (ex.: "Design Gráfico + Python").  
+  - Busca avançada por "Habilidade + Curso" (ex.: "Design Gráfico + Python", "Ciências Contábeis + Contabilidade Tributária"). 
   - Sugestões automáticas de perfis compatíveis
-  
