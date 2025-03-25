@@ -1,9 +1,7 @@
-Persona2: Carlos, o profissional sempre atarefado 
+Apelido e Desenho: Carlinhos
+ 
+Perfil: 35 anos Engenheiro de TI Usuário avançado de tecnologia, sempre atualizado com as últimas inovações e ferramentas digitais. 
 
-Idade: 35 Anos
-Profissão: Engenheiro TI
-Tecnologia: Adota novas tecnologias com facilidade.
-Objetivo: Ter uma experiência de transporte sem atritos, sem precisar lidar com processos manuais demorados.
-Motivação: Carlos prefere sistemas autônomos que otimizem seu tempo, como pagamentos rápidos e reconhecimento facial, sem a necessidade de interação com atendentes.
-Frustrações: Ele não gosta de sistemas que exigem validação manual ou demoram mais do que o necessário para autorizar pagamentos.
-Como o projeto a ajuda: O processo de compra de passagens e de acesso ao transporte é totalmente automatizado e baseado em reconhecimento facial, o que permite a ele um acesso rápido, sem depender de interação humana.
+Comportamento: Carlos é um profissional técnico que lida com tecnologia o dia inteiro. Seu trabalho como engenheiro de TI exige que ele esteja sempre à frente das inovações, o que o torna um usuário entusiasta de novos sistemas e dispositivos. Ele gosta de soluções eficientes, rápidas e seguras, especialmente quando se trata de processos do dia a dia, como o transporte público. Carlos é prático, valoriza a automação e busca sempre evitar interações humanas desnecessárias. Ele prefere sistemas que sejam diretos e ofereçam soluções tecnológicas avançadas, sem complicação.
+
+Necessidade: Carlos valoriza sistemas que funcionam rapidamente e sem erros. Como tem uma agenda cheia e precisa otimizar seu tempo, ele precisa de um processo rápido e sem interrupções. Ele prefere evitar a interação com atendentes humanos, buscando uma experiência autônoma e fluida, onde ele pode resolver tudo pelo smartphone ou por sistemas automatizados. Como trabalha com tecnologia e entende a importância da proteção de dados, Carlos precisa de um sistema de pagamento seguro e confiável, que não deixe brechas para falhas ou fraudes. Carlos está sempre em busca de novas tecnologias que possam tornar sua experiência mais eficiente. Ele valoriza sistemas com reconhecimento facial, pagamentos via NFC, ou qualquer outro recurso inovador que facilite sua experiência de transporte.
