@@ -36,4 +36,5 @@
 - **Funcionalidade crítica**:  
   ```markdown  
   - Busca avançada por "Habilidade + Curso" (ex.: "Design Gráfico + Python").  
-  - Sugestões automáticas de perfis compatíveis.  
+  - Sugestões automáticas de perfis compatíveis
+  
