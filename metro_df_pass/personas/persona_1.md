@@ -1,0 +1,7 @@
+Apelido e Desenho: Mary
+
+Perfil: 37 Anos, Auxiliar de Classe, Usuária moderada de tecnologia
+
+Comportamento: Mary tem uma rotina bem estruturada. Como auxiliar de classe, ela passa boa parte do seu tempo auxiliando suas monitoras, rotina de sala e cuidando/educando seus alunos. Por ser uma pessoa prática e focada, ela valoriza a simplicidade e a eficiência em tudo o que faz, especialmente quando se trata de suas tarefas diárias, como pegar o transporte público. Mary busca soluções rápidas e diretas para evitar atrasos e complicações, e preza pela facilidade de uso dos sistemas, já que não quer perder tempo com filas e etapas complexas.
+
+Necessidades: Mary precisa de um sistema fácil de entender e utilizar. Um design claro e sem muitos detalhes complexos é fundamental para que ela se sinta confortável. Como tem um horário fixo e não pode se dar ao luxo de perder tempo, ela precisa de um sistema de embarque rápido e eficiente, que permita o pagamento e o acesso ao transporte com agilidade, ela valoriza a segurança das suas transações. A autenticação via reconhecimento facial é uma solução que a tranquiliza, pois ela sabe que sua identidade está sendo protegida de maneira confiável. Embora ela prefira resolver as coisas sozinha, quando necessário, ela precisa de um suporte que seja rápido e eficiente para resolver qualquer problema ou dúvida.
