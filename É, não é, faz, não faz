@@ -1,0 +1,34 @@
+É:
+Plataforma Educacional: A ideia central é criar um ambiente interativo para alunos, utilizando jogos educativos que incentivem o aprendizado de forma divertida.
+
+Gamificação: Utiliza jogos como ferramenta para engajar os alunos, fazendo com que o processo de aprendizado se torne mais interessante e envolvente.
+
+Feedback Automatizado: A plataforma fornecerá respostas imediatas sobre o desempenho do aluno, ajudando-o a melhorar continuamente.
+
+Desafios Adaptativos: A experiência do aluno se adapta ao seu nível de aprendizado, ajustando os desafios conforme o seu progresso.
+
+MVP Simples: A versão inicial do projeto é focada em um número limitado de jogos e funcionalidades básicas, para testar a aceitação da proposta.
+
+Não é:
+Uma Plataforma Complexa: Não será uma plataforma com diversos módulos complexos de aprendizado. O foco está em manter a simplicidade e a eficácia, com recursos básicos para validar o conceito.
+
+Uma Solução Sem Interatividade: Não é apenas um site de leitura ou vídeos. A ideia é ser totalmente interativo, com jogos e feedback em tempo real.
+
+Sistema de Feedback Manual: Não haverá intervenção humana constante para avaliar o desempenho. O feedback será automatizado, sem a necessidade de professores ou tutores para cada interação.
+
+Faz:
+Motiva os Alunos a Aprender: Por meio da gamificação e dos desafios, a plataforma mantém o aluno engajado, motivando-o a completar as tarefas e melhorar seu desempenho.
+
+Fornece Feedback Instantâneo: A cada tarefa ou desafio completado, o aluno recebe uma resposta imediata sobre o que fez certo e onde precisa melhorar.
+
+Adapta o Conteúdo ao Progresso do Aluno: Com os desafios ajustáveis, o jogo se torna mais difícil ou fácil dependendo de como o aluno está se saindo, criando uma experiência personalizada.
+
+Permite Melhorar a Experiência de Aprendizado: As sugestões automáticas e os relatórios básicos ajudam os alunos a entender suas dificuldades e a focar nas áreas que precisam de mais atenção.
+
+Não faz:
+Substitui Professores ou Educadores: A plataforma não substitui o papel de educadores, mas serve como uma ferramenta complementar para o aprendizado.
+
+Oferece Resultados Perfeitos: Como é um MVP, o sistema de feedback e os jogos podem não ser 100% perfeitos ou complexos, e ajustes podem ser feitos durante o processo de testes.
+
+Tem Todos os Conteúdos do Currículo: Não será uma plataforma com todos os conteúdos escolares, mas um espaço inicial de aprendizado focado em algumas matérias e áreas específicas, como matemática e ciências.
+
