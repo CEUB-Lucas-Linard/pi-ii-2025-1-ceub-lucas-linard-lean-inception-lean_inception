@@ -1,0 +1,7 @@
+Apelido e Desenho: Carlinhos
+ 
+Perfil: 35 anos Engenheiro de TI Usuário avançado de tecnologia, sempre atualizado com as últimas inovações e ferramentas digitais. 
+
+Comportamento: Carlos é um profissional técnico que lida com tecnologia o dia inteiro. Seu trabalho como engenheiro de TI exige que ele esteja sempre à frente das inovações, o que o torna um usuário entusiasta de novos sistemas e dispositivos. Ele gosta de soluções eficientes, rápidas e seguras, especialmente quando se trata de processos do dia a dia, como o transporte público. Carlos é prático, valoriza a automação e busca sempre evitar interações humanas desnecessárias. Ele prefere sistemas que sejam diretos e ofereçam soluções tecnológicas avançadas, sem complicação.
+
+Necessidade: Carlos valoriza sistemas que funcionam rapidamente e sem erros. Como tem uma agenda cheia e precisa otimizar seu tempo, ele precisa de um processo rápido e sem interrupções. Ele prefere evitar a interação com atendentes humanos, buscando uma experiência autônoma e fluida, onde ele pode resolver tudo pelo smartphone ou por sistemas automatizados. Como trabalha com tecnologia e entende a importância da proteção de dados, Carlos precisa de um sistema de pagamento seguro e confiável, que não deixe brechas para falhas ou fraudes. Carlos está sempre em busca de novas tecnologias que possam tornar sua experiência mais eficiente. Ele valoriza sistemas com reconhecimento facial, pagamentos via NFC, ou qualquer outro recurso inovador que facilite sua experiência de transporte.
