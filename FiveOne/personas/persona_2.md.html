@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Modelo de Persona</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f4f4f4;
+    }
+    .container {
+      width: 800px;
+      height: 1000px;
+      border: 2px solid #b22222;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: auto auto auto;
+      gap: 1px;
+      background-color: #fff;
+    }
+    .box {
+      padding: 20px;
+      border: 1px solid #aaa;
+    }
+    .box h3 {
+      margin-top: 0;
+      font-size: 18px;
+    }
+    .box ul {
+      list-style-type: disc;
+      padding-left: 20px;
+    }
+    .photo-box {
+      grid-column: span 2;
+      text-align: center;
+      padding: 20px;
+      border-bottom: 2px solid #b22222;
+    }
+    .photo-box img {
+      width: 80%;
+      height: auto;
+      border-radius: 10px;
+      border: 2px solid #aaa;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="photo-box">
+      <h3>Foto do Estudante</h3>
+      <img src="https://img.freepik.com/fotos-gratis/plano-de-fundo-de-programacao-com-pessoa-trabalhando-com-codigos-no-computador_23-2150010130.jpg?t=st=1742862389~exp=1742865989~hmac=d819a7edf009f2105b95d8c82bbd70317315a017bd893e3bdefac0d9760beb7a&w=996" alt="Foto do estudante">
+    </div>
+    <div class="box">
+      <h3>Apelido e desenho</h3>
+      <p><strong>Apelido: Mohamede</strong> </p>
+      <p>📚  Um estudante engajado.</p>
+    </div>
+    <div class="box">
+      <h3>Perfil</h3>
+      <ul>
+        <li>Idade: 22 anos</li>
+        <li>Curso: Engenharia de Software</li>
+        <li>Período: 6º semestre</li>
+        <li>Participante de eventos acadêmicos e hackathons</li>
+      </ul>
+    </div>
+    <div class="box">
+      <h3>Comportamento</h3>
+      <ul>
+        <li>Ativo em grupos de networking</li>
+        <li>Busca oportunidades de estágio</li>
+        <li>Gosta de compartilhar conhecimento</li>
+        <li>Engajado em projetos extracurriculares</li>
+      </ul>
+    </div>
+    <div class="box">
+      <h3>Necessidades</h3>
+      <ul>
+        <li>Facilidade para encontrar eventos acadêmicos</li>
+        <li>Networking com alunos e empresas</li>
+        <li>Plataforma para compartilhar e encontrar projetos</li>
+        <li>Acesso rápido a oportunidades de estágio e emprego</li>
+      </ul>
+    </div>
+  </div>
+
+</body>
+</html>
