@@ -1,16 +1,16 @@
-Cadastrar Usuário
-Cadastrar Cartão Crédito/Débito
-Emitir Passagem
-Exibir Comprovante
-Emitir QR Code
-Permitir várias formas de pagammento
-Debitar da carteira do app
-Emitir passagem offline 
-Cadastrar leitura facial 
-Solicitar cartão Mobilidade 
-Fornecer geolocalização
-Fornecer feedback imadiato
-fornecer suporte pelo chatbot
-emitir alertas personalizados
-comprar passagem via toten
+1 Cadastrar Usuário
+2 Cadastrar Cartão Crédito/Débito
+3 Emitir Passagem
+4 Exibir Comprovante
+5 Emitir QR Code
+6 Permitir várias formas de pagammento
+7 Debitar da carteira do app
+8 Emitir passagem offline 
+9 Cadastrar leitura facial 
+10 Solicitar cartão Mobilidade 
+11 Fornecer geolocalização
+12 Fornecer feedback imadiato
+13 Fornecer suporte pelo chatbot
+14 Emitir alertas personalizados
+15 Comprar passagem via toten
 
